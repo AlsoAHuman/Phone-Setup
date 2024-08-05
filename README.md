@@ -5,4 +5,4 @@ This is a list of apps I use on Android. This list and configuration is for the 
 You can use either the [URL Configuration](https://github.com/AlsoAHuman/Phone-Setup/blob/main/AppListHTML.txt) or the [JSON File](https://github.com/AlsoAHuman/Phone-Setup/blob/main/Obtainium-Export.json) to import the apps into Obtainium.
 
 ## RiMusic Configuration
-This [file](https://github.com/AlsoAHuman/Phone-Setup/raw/main/rimusicbackup.db) is for the custom theme and settings applied to RiMusic.
+This [File](https://github.com/AlsoAHuman/Phone-Setup/raw/main/rimusicbackup.db) is for the custom theme and settings applied to RiMusic.
